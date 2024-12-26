@@ -34,33 +34,3 @@ socketClient.on('arrayProducts', (array)=>{
 
 
 
-
-
-
-
-//   {
-//     name: "polera",
-//     price: 10000,
-//     stock: "15",
-//   },
-//   {
-//     name: "chaqueta",
-//     price: 50000,
-//     stock: "7",
-//   },
-//   {
-//     name: "pantalon",
-//     price: 24990,
-//     stock: "6",
-//   },
-//   {
-//     name: "zapato",
-//     price: 55000,
-//     stock: "4",
-//   },
-//   {
-//     name: "gorro",
-//     price: 19990,
-//     stock: "20",
-//   },
-// ];

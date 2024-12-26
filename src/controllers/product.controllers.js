@@ -1,4 +1,4 @@
-// import prodManager from "../managers/product.manager.js";
+
 import * as services from "../servicios/product.services.js";
 
 export const getProducts = async (req, res) => {
